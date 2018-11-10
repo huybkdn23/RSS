@@ -1,4 +1,4 @@
-package com.example.tinyannie.rss;
+package com.excersise.huybkdn.rss;
 
 import org.junit.Test;
 

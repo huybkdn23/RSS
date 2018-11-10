@@ -1,4 +1,4 @@
-package com.example.tinyannie.rss;
+package com.excersise.huybkdn.rss;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.tinyannie.rss", appContext.getPackageName());
+        assertEquals("com.excersise.huybkdn.rss", appContext.getPackageName());
     }
 }
